@@ -1,0 +1,1 @@
+Giả sử đây là file có trên server mình cần lấy về local
